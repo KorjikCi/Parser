@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YOOxs9VuLhkDjcZZGUATJEVXSBYpn3y1ZXNB/x+hdo0WntsVU0MaQU9v/9Ek51c7DPMpCAfmQdfOwhrHFIm7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dima\\RiderProjects\\ParserOnliner\\ParserOnliner\\ParserOnliner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dima\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\bin\Debug\net6.0\ParserOnliner.exe
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\bin\Debug\net6.0\ParserOnliner.deps.json
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\bin\Debug\net6.0\ParserOnliner.runtimeconfig.json
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\bin\Debug\net6.0\ParserOnliner.dll
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\bin\Debug\net6.0\ParserOnliner.pdb
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\obj\Debug\net6.0\ParserOnliner.csproj.AssemblyReference.cache
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\obj\Debug\net6.0\ParserOnliner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\obj\Debug\net6.0\ParserOnliner.AssemblyInfoInputs.cache
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\obj\Debug\net6.0\ParserOnliner.AssemblyInfo.cs
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\obj\Debug\net6.0\ParserOnliner.csproj.CoreCompileInputs.cache
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\obj\Debug\net6.0\ParserOnliner.csproj.CopyComplete
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\obj\Debug\net6.0\ParserOnliner.dll
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\obj\Debug\net6.0\refint\ParserOnliner.dll
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\obj\Debug\net6.0\ParserOnliner.pdb
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\obj\Debug\net6.0\ParserOnliner.genruntimeconfig.cache
+C:\Users\Dima\RiderProjects\ParserOnliner\ParserOnliner\obj\Debug\net6.0\ref\ParserOnliner.dll
